@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Restaurant Management System**
 
-- 🌱 I’m currently learning **React-js**
+- 🌱 I’m currently learning **React-js*, **Flutter***
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **sagat56780@gmail.com**
+- 📫 How to reach me **AniketSingh4141@gmail.com**
 - [![GitHub Streak](https://streak-stats.demolab.com?user=sagar56780&theme=date-night)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
